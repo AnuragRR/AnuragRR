@@ -8,38 +8,6 @@ Building intelligent products through modern software engineering and AI.
 
 **Product Engineering • Full Stack Development • AI Integration • Enterprise Automation**
 
-<!-- <br>
-
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AnuragRR">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/anuragrr">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<br><br> -->
-
 📍 India • Open to Full Stack Engineering Opportunities
 
 </div>
@@ -90,11 +58,11 @@ I'm passionate about building products that simplify complex business processes 
 
 **Frontend**
 
-`React` • `Next.js` • `JavaScript` • `TypeScript` • `HTML5` • `CSS3` • `Bootstrap` • `Tailwind CSS`
+`React` • `JavaScript` • `TypeScript`
 
 **Backend**
 
-`PHP` • `Laravel` • `Java` • `Spring Boot` • `FastAPI` • `Node.js`
+`PHP` • `Laravel` • `Java` • `Spring Boot` • `FastAPI`
 
 **API Development**
 
@@ -129,19 +97,19 @@ I'm passionate about building products that simplify complex business processes 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="32">
 </a>
 
-<a href="https://x.com/YOUR_USERNAME">
+<a href="https://x.com/meAnuragRR">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" width="32">
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/anurag.singh.chauhan_">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" width="32">
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<!-- <a href="https://leetcode.com/YOUR_USERNAME">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="32">
-</a>
+</a> -->
 
-<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<a href="https://www.geeksforgeeks.org/profile/anuragrr">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/geeksforgeeks.svg" width="32">
 </a>
 
